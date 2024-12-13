@@ -1,26 +1,35 @@
-# Login utilizando Firebase
-Projeto de Login utilizando Firebase
+# Firebase-Login
+## O que é?
+Firebase-Login é um projeto simples de Login com Google utilizando Firebase do qual trabalhamos em aula (Programação Web II)
 
-Descrição:
+## 📖 Descrição: 
 O código JavaScript implementa as funcionalidades de login com a conta do Google e recuperação de senha para uma aplicação web. As funções utilizam a biblioteca de autenticação do Firebase para interagir com o Google Sign-In e enviar e-mails de redefinição de senha.
 
-![image](https://github.com/user-attachments/assets/826b6ef2-3e74-4a6f-a3e2-8be9d43fc8db)
+![image](https://github.com/user-attachments/assets/a79b5921-17a5-4f14-8c78-028e51dc3e3a)
 
 
-Login com Google:
+## 🔎 Login com Google:
 Ao clicar no botão "google", o usuário é redirecionado para o fluxo de autenticação do Google.
 Após a autenticação bem-sucedida, o usuário é direcionado para a página "homepage.html".
-![Group 80](https://github.com/user-attachments/assets/c39adae0-7236-4241-b8ae-327a7a5c0f46)
 
-Recuperação de senha:
-Ao clicar no botão "reset", um prompt solicita o endereço de e-mail do usuário.
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/user-attachments/assets/488fb56c-2221-4bcd-87cc-da5ca2067ca4)
+
+
+
+## 📂 Recuperação de senha:
+
+![image](https://github.com/user-attachments/assets/2aecf982-412b-408d-8cea-a0fe5c1dd30e)
+
+
+Ao clicar no botão "Recuperar senha", um prompt solicita o endereço de e-mail do usuário.
 O e-mail é validado para garantir que esteja no formato correto.
 Se o e-mail for válido, um e-mail de redefinição de senha é enviado para o endereço fornecido.
 Caso ocorra algum erro, uma mensagem de erro é exibida ao usuário.
 
-
-![Group 80 (1)](https://github.com/user-attachments/assets/2766d8b1-db48-48ff-a2db-9d4db5b8c1d4)
-
+![image](https://github.com/user-attachments/assets/ec2174b4-7d40-419e-af59-b001bf7db93b)
 
 
-![image](https://github.com/user-attachments/assets/9c702d48-394b-49cd-994b-aa56d5475d2b)
+
+
+
+
